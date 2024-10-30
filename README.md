@@ -1,1 +1,1 @@
-# Binary-Search-on-Server
+Need a server to work properly 
